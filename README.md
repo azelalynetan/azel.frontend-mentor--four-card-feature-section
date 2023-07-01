@@ -27,7 +27,6 @@ Users should be able to:
 
 ![](./assets/images/screenshot.png)
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
@@ -67,10 +66,6 @@ I want to practice CSS grid more, do more challenges using mobile-first workflow
 - [CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset) - Simple CSS Reset
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
 - Website - [https://azelalynetan.github.io/](azelalynetan)
 - Frontend Mentor - [https://www.frontendmentor.io/profile/azelalynetan](@azelalynetan)
